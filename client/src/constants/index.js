@@ -35,3 +35,5 @@ export const navlinks = [
     disabled: true,
   },
 ];
+
+export const contractAddress = "0x3EdB485D9267A6B4E072cB298dCaef5CAeFaCb1B";
